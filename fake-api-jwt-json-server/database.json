@@ -5,22 +5,94 @@
       "key": 1,
       "color": "#74EA8E",
       "walletTitle": "cash",
-      "walletAmount": 43,
+      "walletAmount": 290,
       "transactions": [
+        {
+          "keyTransaction": 18,
+          "type": "income",
+          "amountTransaction": 200,
+          "category": "Salary",
+          "icon": "iconSalarySource",
+          "date": "1/5/2022"
+        },
+        {
+          "keyTransaction": 17,
+          "type": "income",
+          "amountTransaction": 100,
+          "category": "Salary",
+          "icon": "iconSalarySource",
+          "date": "1/5/2022"
+        },
+        {
+          "keyTransaction": 16,
+          "type": "income",
+          "amountTransaction": 300,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/5/2022"
+        },
+        {
+          "keyTransaction": 15,
+          "type": "income",
+          "amountTransaction": 200,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/5/2022"
+        },
+        {
+          "keyTransaction": 14,
+          "type": "expenses",
+          "amountTransaction": 333,
+          "category": "Car",
+          "icon": "iconCarSource",
+          "date": "1/4/2022"
+        },
+        {
+          "keyTransaction": 13,
+          "type": "expenses",
+          "amountTransaction": 1,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/3/2022"
+        },
+        {
+          "keyTransaction": 12,
+          "type": "expenses",
+          "amountTransaction": 2,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/3/2022"
+        },
+        {
+          "keyTransaction": 11,
+          "amountTransaction": 20,
+          "category": "Unknown",
+          "date": "1/3/2022",
+          "type": "expenses",
+          "icon": "iconUnknownSource"
+        },
+        {
+          "keyTransaction": 10,
+          "type": "expenses",
+          "amountTransaction": 10,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "12/31/2021"
+        },
+        {
+          "keyTransaction": 9,
+          "type": "expenses",
+          "amountTransaction": 10,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "12/31/2021"
+        },
         {
           "keyTransaction": 8,
           "amountTransaction": 55,
           "category": "Unknown",
           "date": "12/31/2021",
           "type": "income",
-          "icon": "iconUnknownSource"
-        },
-        {
-          "keyTransaction": 7,
-          "amountTransaction": 500,
-          "category": "Unknown",
-          "date": "12/31/2021",
-          "type": "expenses",
           "icon": "iconUnknownSource"
         },
         {
@@ -78,8 +150,56 @@
       "key": 2,
       "color": "#8D45A7",
       "walletTitle": "card",
-      "walletAmount": 555,
+      "walletAmount": 264,
       "transactions": [
+        {
+          "keyTransaction": 8,
+          "type": "income",
+          "amountTransaction": 150,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/5/2022"
+        },
+        {
+          "keyTransaction": 7,
+          "type": "income",
+          "amountTransaction": 12,
+          "category": "Salary",
+          "icon": "iconSalarySource",
+          "date": "1/3/2022"
+        },
+        {
+          "keyTransaction": 6,
+          "type": "expenses",
+          "amountTransaction": 22,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/3/2022"
+        },
+        {
+          "keyTransaction": 5,
+          "type": "expenses",
+          "amountTransaction": 22,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/3/2022"
+        },
+        {
+          "keyTransaction": 4,
+          "type": "expenses",
+          "amountTransaction": 2,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/2/2022"
+        },
+        {
+          "keyTransaction": 3,
+          "type": "expenses",
+          "amountTransaction": 55,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "1/2/2022"
+        },
         {
           "keyTransaction": 2,
           "type": "income",
@@ -99,63 +219,49 @@
       ]
     },
     {
-      "key": 7,
-      "color": "#DFE24A",
-      "walletTitle": "Yyyy ",
-      "walletAmount": 558,
+      "key": 3,
+      "color": "#3FECEC",
+      "walletTitle": "new one",
+      "walletAmount": 337,
       "transactions": [
-        {
-          "keyTransaction": 1,
-          "type": "expenses",
-          "amountTransaction": 100,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/31/2021"
-        }
-      ],
-      "id": 7
-    },
-    {
-      "key": 8,
-      "color": "#56E24A",
-      "walletTitle": "Gggg",
-      "walletAmount": 2,
-      "transactions": [
-        {
-          "keyTransaction": 2,
-          "type": "expenses",
-          "amountTransaction": 20,
-          "category": "Car",
-          "icon": "iconCarSource",
-          "date": "12/31/2021"
-        },
         {
           "keyTransaction": 1,
           "type": "income",
-          "amountTransaction": 20,
+          "amountTransaction": 300,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "12/31/2021"
+          "date": "1/5/2022"
         }
       ],
-      "id": 8
+      "id": 3
+    }
+  ],
+  "debits": [
+    {
+      "debitsToYou": [
+        {
+          "key": 6,
+          "person": "Grif",
+          "amount": 100,
+          "date": "1/5/2022",
+          "keyOfWallet": 1,
+          "type": "debit to you"
+        }
+      ],
+      "id": 1
     },
     {
-      "key": 9,
-      "color": "#DFE24A",
-      "walletTitle": "2222",
-      "walletAmount": 90,
-      "transactions": [
+      "yourDebits": [
         {
-          "keyTransaction": 1,
-          "type": "expenses",
-          "amountTransaction": 10,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/31/2021"
+          "key": 6,
+          "person": "Filip",
+          "amount": 50,
+          "date": "1/5/2022",
+          "keyOfWallet": 2,
+          "type": "your debit"
         }
       ],
-      "id": 9
+      "id": 2
     }
   ]
 }
