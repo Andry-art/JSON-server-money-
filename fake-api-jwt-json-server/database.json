@@ -3,248 +3,908 @@
     {
       "id": 1,
       "key": 1,
-      "color": "#74EA8E",
+      "color": [
+        "#F39034",
+        "#FF2727"
+      ],
       "walletTitle": "cash",
-      "walletAmount": 290,
+      "walletAmount": 498,
       "transactions": [
         {
-          "keyTransaction": 18,
+          "keyTransaction": 40,
           "type": "income",
-          "amountTransaction": 200,
+          "amountTransaction": 53,
           "category": "Salary",
           "icon": "iconSalarySource",
-          "date": "1/5/2022"
+          "date": "2022-01-19T05:22:05.188Z"
         },
         {
-          "keyTransaction": 17,
+          "keyTransaction": 39,
           "type": "income",
-          "amountTransaction": 100,
+          "amountTransaction": 25,
           "category": "Salary",
           "icon": "iconSalarySource",
-          "date": "1/5/2022"
+          "date": "2022-01-19T05:21:55.169Z"
         },
         {
-          "keyTransaction": 16,
-          "type": "income",
-          "amountTransaction": 300,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "1/5/2022"
-        },
-        {
-          "keyTransaction": 15,
-          "type": "income",
-          "amountTransaction": 200,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "1/5/2022"
-        },
-        {
-          "keyTransaction": 14,
+          "keyTransaction": 38,
           "type": "expenses",
-          "amountTransaction": 333,
+          "amountTransaction": 123,
+          "category": "Restaurant",
+          "icon": "iconRestaurantSource",
+          "date": "2022-01-13T10:00:06.206Z"
+        },
+        {
+          "keyTransaction": 37,
+          "type": "expenses",
+          "amountTransaction": 22,
           "category": "Car",
           "icon": "iconCarSource",
-          "date": "1/4/2022"
+          "date": "2022-01-13T09:59:49.413Z"
         },
         {
-          "keyTransaction": 13,
+          "keyTransaction": 36,
           "type": "expenses",
-          "amountTransaction": 1,
+          "amountTransaction": 12,
+          "category": "Health",
+          "icon": "iconHealthSource",
+          "date": "2022-01-13T09:59:32.110Z"
+        },
+        {
+          "keyTransaction": 34,
+          "type": "expenses",
+          "amountTransaction": 7,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "1/3/2022"
+          "date": "2021-11-30T09:05:26.949Z"
         },
         {
-          "keyTransaction": 12,
+          "keyTransaction": 33,
           "type": "expenses",
-          "amountTransaction": 2,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "1/3/2022"
+          "amountTransaction": 25,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-30T07:59:16.014Z"
         },
         {
-          "keyTransaction": 11,
-          "amountTransaction": 20,
-          "category": "Unknown",
-          "date": "1/3/2022",
-          "type": "expenses",
-          "icon": "iconUnknownSource"
-        },
-        {
-          "keyTransaction": 10,
-          "type": "expenses",
-          "amountTransaction": 10,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/31/2021"
-        },
-        {
-          "keyTransaction": 9,
-          "type": "expenses",
-          "amountTransaction": 10,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/31/2021"
-        },
-        {
-          "keyTransaction": 8,
-          "amountTransaction": 55,
-          "category": "Unknown",
-          "date": "12/31/2021",
-          "type": "income",
-          "icon": "iconUnknownSource"
-        },
-        {
-          "keyTransaction": 6,
+          "keyTransaction": 32,
           "type": "expenses",
           "amountTransaction": 11,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "12/31/2021"
+          "date": "2021-11-29T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 31,
+          "type": "expenses",
+          "amountTransaction": 45,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-28T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 30,
+          "type": "expenses",
+          "amountTransaction": 12,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-27T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 29,
+          "type": "expenses",
+          "amountTransaction": 27,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-26T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 28,
+          "type": "expenses",
+          "amountTransaction": 12,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-25T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 27,
+          "type": "expenses",
+          "amountTransaction": 7,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-24T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 26,
+          "type": "expenses",
+          "amountTransaction": 23,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-23T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 25,
+          "type": "expenses",
+          "amountTransaction": 12,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-22T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 24,
+          "type": "expenses",
+          "amountTransaction": 78,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-21T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 23,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-20T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 22,
+          "type": "expenses",
+          "amountTransaction": 76,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-19T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 21,
+          "type": "expenses",
+          "amountTransaction": 34,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-18T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 20,
+          "type": "expenses",
+          "amountTransaction": 11,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-17T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 19,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-16T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 18,
+          "type": "expenses",
+          "amountTransaction": 71,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-15T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 17,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-14T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 16,
+          "type": "expenses",
+          "amountTransaction": 21,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-13T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 15,
+          "type": "expenses",
+          "amountTransaction": 65,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-12T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 14,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-11T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 13,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-10T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 12,
+          "type": "expenses",
+          "amountTransaction": 71,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-09T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 11,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-08T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 10,
+          "type": "expenses",
+          "amountTransaction": 91,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-07T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 9,
+          "type": "expenses",
+          "amountTransaction": 41,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-06T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 8,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-05T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 7,
+          "type": "expenses",
+          "amountTransaction": 4,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-04T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 6,
+          "type": "expenses",
+          "amountTransaction": 16,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-03T09:05:26.949Z"
         },
         {
           "keyTransaction": 5,
           "type": "expenses",
-          "amountTransaction": 1,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/31/2021"
+          "amountTransaction": 18,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-02T07:59:16.014Z"
         },
         {
           "keyTransaction": 4,
-          "amountTransaction": 50,
-          "category": "Shopping",
-          "date": "12/30/2021",
           "type": "expenses",
-          "icon": "iconGrocerySource"
+          "amountTransaction": 11,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-11-01T09:05:26.949Z"
         },
         {
           "keyTransaction": 3,
           "type": "expenses",
-          "amountTransaction": 32,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/30/2021"
-        },
-        {
-          "keyTransaction": 2,
-          "type": "expenses",
-          "amountTransaction": 55,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "12/30/2021"
-        },
-        {
-          "keyTransaction": 1,
-          "type": "expenses",
-          "amountTransaction": 10,
-          "category": "health",
-          "date": "27.09.2020",
-          "icon": "iconHealthSource"
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-11-01T07:59:16.014Z"
         }
       ]
     },
     {
       "id": 2,
       "key": 2,
-      "color": "#8D45A7",
+      "color": [
+        "#003AD2",
+        "#0097EC"
+      ],
       "walletTitle": "card",
-      "walletAmount": 264,
+      "walletAmount": 448,
       "transactions": [
         {
-          "keyTransaction": 8,
+          "keyTransaction": 39,
+          "type": "expenses",
+          "amountTransaction": 64,
+          "category": "Restaurant",
+          "icon": "iconRestaurantSource",
+          "date": "2022-01-18T20:26:30.521Z"
+        },
+        {
+          "keyTransaction": 37,
+          "type": "expenses",
+          "amountTransaction": 43,
+          "category": "Health",
+          "icon": "iconHealthSource",
+          "date": "2022-01-17T16:16:34.022Z"
+        },
+        {
+          "keyTransaction": 36,
+          "amountTransaction": 288,
+          "category": "Unknown",
+          "date": "2022-01-15T09:29:37.733Z",
           "type": "income",
-          "amountTransaction": 150,
+          "icon": "iconUnknownSource"
+        },
+        {
+          "keyTransaction": 35,
+          "type": "expenses",
+          "amountTransaction": 55,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-15T09:29:29.378Z"
+        },
+        {
+          "keyTransaction": 34,
+          "type": "expenses",
+          "amountTransaction": 71,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "1/5/2022"
+          "date": "2021-12-31T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 33,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-30T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 32,
+          "type": "expenses",
+          "amountTransaction": 21,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-29T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 31,
+          "type": "expenses",
+          "amountTransaction": 65,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-28T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 30,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-27T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 29,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-26T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 28,
+          "type": "expenses",
+          "amountTransaction": 71,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-25T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 27,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-24T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 26,
+          "type": "expenses",
+          "amountTransaction": 91,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-23T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 25,
+          "type": "expenses",
+          "amountTransaction": 41,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-22T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 24,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-21T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 23,
+          "type": "expenses",
+          "amountTransaction": 4,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-20T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 22,
+          "type": "expenses",
+          "amountTransaction": 16,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-19T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 21,
+          "type": "expenses",
+          "amountTransaction": 18,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-18T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 20,
+          "type": "expenses",
+          "amountTransaction": 11,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-17T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 19,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-16T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 18,
+          "type": "expenses",
+          "amountTransaction": 71,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-15T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 17,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-14T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 16,
+          "type": "expenses",
+          "amountTransaction": 21,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-13T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 15,
+          "type": "expenses",
+          "amountTransaction": 65,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-12T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 14,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-11T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 13,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-10T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 12,
+          "type": "expenses",
+          "amountTransaction": 71,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-09T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 11,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-08T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 10,
+          "type": "expenses",
+          "amountTransaction": 91,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-07T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 9,
+          "type": "expenses",
+          "amountTransaction": 41,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-06T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 8,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2021-12-05T09:05:26.949Z"
         },
         {
           "keyTransaction": 7,
-          "type": "income",
-          "amountTransaction": 12,
-          "category": "Salary",
-          "icon": "iconSalarySource",
-          "date": "1/3/2022"
+          "type": "expenses",
+          "amountTransaction": 4,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-04T07:59:16.014Z"
         },
         {
           "keyTransaction": 6,
           "type": "expenses",
-          "amountTransaction": 22,
+          "amountTransaction": 16,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "1/3/2022"
+          "date": "2021-12-03T09:05:26.949Z"
         },
         {
           "keyTransaction": 5,
           "type": "expenses",
-          "amountTransaction": 22,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "1/3/2022"
+          "amountTransaction": 18,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-02T07:59:16.014Z"
         },
         {
           "keyTransaction": 4,
           "type": "expenses",
-          "amountTransaction": 2,
+          "amountTransaction": 11,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "1/2/2022"
+          "date": "2021-12-01T09:05:26.949Z"
         },
         {
           "keyTransaction": 3,
           "type": "expenses",
-          "amountTransaction": 55,
-          "category": "Unknown",
-          "icon": "iconUnknownSource",
-          "date": "1/2/2022"
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2021-12-01T07:59:16.014Z"
         },
         {
           "keyTransaction": 2,
           "type": "income",
-          "amountTransaction": 25,
+          "amountTransaction": 500,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "11.11.11"
-        },
-        {
-          "keyTransaction": 1,
-          "amountTransaction": 10,
-          "category": "car",
-          "date": "27.09.2020",
-          "type": "expenses",
-          "icon": "iconCarSource"
+          "date": "2021-12-01T07:59:16.014Z"
         }
       ]
     },
     {
       "key": 3,
-      "color": "#3FECEC",
+      "color": [
+        "#00A843",
+        "#1FD071"
+      ],
       "walletTitle": "new one",
-      "walletAmount": 337,
+      "walletAmount": 291,
       "transactions": [
         {
-          "keyTransaction": 1,
-          "type": "income",
-          "amountTransaction": 300,
+          "keyTransaction": 19,
+          "amountTransaction": 56,
+          "category": "Restaurant",
+          "date": "2022-01-17T16:20:58.568Z",
+          "type": "expenses",
+          "icon": "iconGrocerySource"
+        },
+        {
+          "keyTransaction": 18,
+          "type": "expenses",
+          "amountTransaction": 71,
           "category": "Unknown",
           "icon": "iconUnknownSource",
-          "date": "1/5/2022"
+          "date": "2022-01-12T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 17,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-11T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 16,
+          "type": "expenses",
+          "amountTransaction": 21,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-11T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 15,
+          "type": "expenses",
+          "amountTransaction": 65,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-10T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 14,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-10T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 13,
+          "type": "expenses",
+          "amountTransaction": 15,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-09T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 12,
+          "type": "expenses",
+          "amountTransaction": 71,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-08T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 11,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-07T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 10,
+          "type": "expenses",
+          "amountTransaction": 91,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-06T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 9,
+          "type": "expenses",
+          "amountTransaction": 41,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-05T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 8,
+          "type": "expenses",
+          "amountTransaction": 13,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-04T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 7,
+          "type": "expenses",
+          "amountTransaction": 4,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-03T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 6,
+          "type": "expenses",
+          "amountTransaction": 16,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-02T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 5,
+          "type": "expenses",
+          "amountTransaction": 18,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-02T07:59:16.014Z"
+        },
+        {
+          "keyTransaction": 4,
+          "type": "expenses",
+          "amountTransaction": 11,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-01T09:05:26.949Z"
+        },
+        {
+          "keyTransaction": 3,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Grocery",
+          "icon": "iconGrocerySource",
+          "date": "2022-01-01T07:59:16.014Z"
         }
       ],
       "id": 3
+    },
+    {
+      "key": 4,
+      "color": [
+        "#5900C9",
+        "#9852F0"
+      ],
+      "walletTitle": "tttt",
+      "walletAmount": 410.5,
+      "transactions": [
+        {
+          "keyTransaction": 5,
+          "type": "income",
+          "amountTransaction": 500,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-19T04:31:03.227Z"
+        },
+        {
+          "keyTransaction": 4,
+          "type": "expenses",
+          "amountTransaction": 55,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-15T09:27:35.711Z"
+        },
+        {
+          "keyTransaction": 2,
+          "type": "expenses",
+          "amountTransaction": 11,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-14T10:47:46.566Z"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "key": 5,
+      "color": [
+        "#01DCBA",
+        "#7F30CB"
+      ],
+      "walletTitle": "Test",
+      "walletAmount": 220,
+      "transactions": [
+        {
+          "keyTransaction": 6,
+          "type": "income",
+          "amountTransaction": 5,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-19T04:31:21.227Z"
+        },
+        {
+          "keyTransaction": 5,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-19T04:13:04.024Z"
+        },
+        {
+          "keyTransaction": 3,
+          "type": "expenses",
+          "amountTransaction": 5,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-19T04:12:28.658Z"
+        },
+        {
+          "keyTransaction": 1,
+          "type": "expenses",
+          "amountTransaction": 25,
+          "category": "Unknown",
+          "icon": "iconUnknownSource",
+          "date": "2022-01-19T03:59:20.960Z"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "key": 6,
+      "color": [
+        "#003AD2",
+        "#0097EC"
+      ],
+      "walletTitle": "4444",
+      "walletAmount": 12,
+      "transactions": [],
+      "id": 6
     }
   ],
   "debits": [
     {
       "debitsToYou": [
         {
-          "key": 6,
-          "person": "Grif",
-          "amount": 100,
-          "date": "1/5/2022",
+          "key": 10,
+          "person": "123",
+          "amount": 123,
+          "date": "1/7/2022",
           "keyOfWallet": 1,
+          "type": "debit to you"
+        },
+        {
+          "key": 11,
+          "person": "123",
+          "amount": 123,
+          "date": "1/7/2022",
+          "keyOfWallet": 3,
+          "type": "debit to you"
+        },
+        {
+          "key": 12,
+          "person": "12ww",
+          "amount": 122,
+          "date": "1/7/2022",
+          "keyOfWallet": 1,
+          "type": "debit to you"
+        },
+        {
+          "key": 13,
+          "person": "Gg",
+          "amount": 2,
+          "date": "1/14/2022",
+          "keyOfWallet": 2,
+          "type": "debit to you"
+        },
+        {
+          "key": 14,
+          "person": "Роирр",
+          "amount": 100,
+          "date": "1/15/2022",
+          "keyOfWallet": 3,
+          "type": "debit to you"
+        },
+        {
+          "key": 15,
+          "person": "Рот",
+          "amount": 55,
+          "date": "1/15/2022",
+          "keyOfWallet": 2,
           "type": "debit to you"
         }
       ],
@@ -258,6 +918,46 @@
           "amount": 50,
           "date": "1/5/2022",
           "keyOfWallet": 2,
+          "type": "your debit"
+        },
+        {
+          "key": 7,
+          "person": "rrr",
+          "amount": 14,
+          "date": "1/5/2022",
+          "keyOfWallet": 2,
+          "type": "your debit"
+        },
+        {
+          "key": 8,
+          "person": "ffff",
+          "amount": 12,
+          "date": "1/8/2022",
+          "keyOfWallet": 4,
+          "type": "your debit"
+        },
+        {
+          "key": 9,
+          "person": "1212",
+          "amount": 121,
+          "date": "1/8/2022",
+          "keyOfWallet": 3,
+          "type": "your debit"
+        },
+        {
+          "key": 10,
+          "person": "gggg",
+          "amount": 44,
+          "date": "1/8/2022",
+          "keyOfWallet": 5,
+          "type": "your debit"
+        },
+        {
+          "key": 11,
+          "person": "Нори",
+          "amount": 500,
+          "date": "1/10/2022",
+          "keyOfWallet": 1,
           "type": "your debit"
         }
       ],
